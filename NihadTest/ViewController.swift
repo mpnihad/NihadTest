@@ -42,9 +42,7 @@ class ViewController: UIViewController {
         view.addSubview(imageview)
         
         imageview.frame = CGRect(
-
             x: 0,y: 0,width: 300,height: 300
-            
         )
         
         imageview.center  = view.center
